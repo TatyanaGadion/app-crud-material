@@ -1,0 +1,40 @@
+{
+  "productList": [
+    {
+      "name": "HP 17-cn0042ua",
+      "category": "Ноутбуки",
+      "productCondition": "Новый",
+      "price": 123,
+      "comment": "Крутой ноут",
+      "date": "2022-11-17T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "name": "Asus TUF a15",
+      "category": "Ноутбуки",
+      "productCondition": "Новый",
+      "price": 452,
+      "comment": "Супер крутой ноутбук. Самая последняя модель, DDR5, новейший процессор!",
+      "date": "2022-11-11T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "name": "Canon",
+      "category": "Оргтехника",
+      "productCondition": "После ремонта",
+      "price": 79,
+      "comment": "принтер после ремонта",
+      "date": "2022-11-02T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "name": "Brother",
+      "category": "Оргтехника",
+      "productCondition": "Б/у",
+      "price": 40,
+      "comment": "Нужно заменить картридж",
+      "date": "2022-11-08T22:00:00.000Z",
+      "id": 5
+    }
+  ]
+}
